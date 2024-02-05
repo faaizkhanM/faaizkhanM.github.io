@@ -1,0 +1,46 @@
+/* navigation section */
+html{
+    scroll-behavior: smooth;
+}
+#navbar{
+    flex-direction: column;
+}
+/* #navbar ul li a{
+    font-size: 1rem;
+    padding: 0px 7px;
+} */
+
+/* home section  */
+#home{
+    height: 340px;
+    padding:20px 35px;
+    
+}
+#home::before{
+    height: 480px;
+    
+}
+#home p{
+    font-size: 1rem;
+}
+
+/* services section */
+#services{
+    flex-direction: column;
+
+}
+
+/* payment section  */
+#payments{
+    flex-wrap: wrap;
+}
+#payments{
+    /* width: 66px;
+    padding: 2px 6px; */
+    height:auto;
+}
+
+/* utility classes */
+.h-primary{
+    font-size: 26px;
+}
