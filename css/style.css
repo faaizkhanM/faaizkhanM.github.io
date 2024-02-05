@@ -88,7 +88,7 @@ html{
     left: 0;
     content: "";
     position: absolute;
-    background: url(resources/bg1.jpg) no-repeat center center/cover;
+    background: url(../resources/bg1.jpg) no-repeat center center/cover;
     height: 78%;
     width: 100%;
     z-index: -1;
